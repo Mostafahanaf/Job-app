@@ -1,0 +1,14 @@
+[90m= [39m[34;4mApp\Models\Resume[39;24m {#8049
+    [34mid[39m: [32m"[39m[32m01a1cb3e-2e4b-701e-b8ca-e6d4a499b890[39m[32m"[39m,
+    [34mfilename[39m: [32m"[39m[32mMostafa_Mohamed_Hanafy_FlowCV_Resume_2026-09-15.pdf[39m[32m"[39m,
+    [34mfileUri[39m: [32m"[39m[32mresumes/resume_1794411197.pdf[39m[32m"[39m,
+    [34mcontactDetails[39m: [32m"[39m[32m{[39m\"[32memail[39m\"[32m:[39m\"[32mmostafa1@gmail.com[39m\"[32m,[39m\"[32mphone[39m\"[32m:null}[39m[32m"[39m,
+    [34meducation[39m: [32m"[39m[32mBachelor of Business Information Technology, Canadian International College (CIC), 2022 – 2026, Cairo, Egypt[39m[32m"[39m,
+    [34mexperience[39m: [32m"[39m[32mFull Stack Instructor, SCCI Student Activity (08/2025 – 06/2026, Cairo, Egypt): Delivered training sessions covering fundamental Full Stack Web Development concepts, explained front-end and back-end development concepts, assisted students with HTML, CSS, JavaScript, and troubleshooting. IT Intern, IHG Hotels & Resorts - Holiday Inn Cairo Maadi (07/2024 – 09/2024, Cairo, Egypt): Supported IT operations, troubleshooting, routine maintenance, hardware setup, and end-user support. IT Intern, IHG Hotels & Resorts - Holiday Inn Cairo Maadi (08/2023 – 10/2023, Cairo, Egypt): Participated in day-to-day IT support tasks, optimized IT processes, and configured network and system software. Projects: Student Conference on Communication and Information - Front-End Development (11/2023); Verdi – Recycling Management Application (02/2026 – 05/2026): Developed web-based dashboard using Firebase, APIs, and database technologies; Job Board Web Application (08/2026 – 09/2026): Developed using PHP, Laravel, SQLite, and REST APIs with authentication and JWT authorization.[39m[32m"[39m,
+    [34mskills[39m: [32m"[39m[32mLanguages: JavaScript, PHP, Java, SQL, C++ (Basic). Web: HTML, CSS, Laravel. Database: SQL, SQLite. Tools: Git, GitHub, Microsoft Office. Soft Skills: Problem Solving, Team Collaboration, Communication. Languages: English (Advanced), German (Basic).[39m[32m"[39m,
+    [34msummary[39m: [32m"[39m[32mMotivated Business Information Technology graduate with hands-on experience in IT support and Full Stack Web Development. Strong problem-solving and communication skills, with a passion for technology and continuous learning. Eager to contribute to a dynamic team and grow in the software development field.[39m[32m"[39m,
+    [34mcreated_at[39m: [32m"[39m[32m2026-11-11 15:33:32[39m[32m"[39m,
+    [34mupdated_at[39m: [32m"[39m[32m2026-11-11 15:33:32[39m[32m"[39m,
+    [34mdeleted_at[39m: [36mnull[39m,
+    [34muserId[39m: [32m"[39m[32m01a1c65a-6fe5-7263-b4af-8c2320e33851[39m[32m"[39m,
+  }
